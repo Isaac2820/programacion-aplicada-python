@@ -4,14 +4,6 @@ Created on Fri Jan 29 07:14:38 2021
 
 @author: Isaac.C
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 29 07:06:29 2021
-
-@author: Isaac.C
-"""
-
 import urllib.parse
 import requests
 main_api="https://www.mapquestapi.com/directions/v2/route?"
